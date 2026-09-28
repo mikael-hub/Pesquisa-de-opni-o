@@ -1,0 +1,12 @@
+Pesquisa de Satisfação
+
+Script em Python para coletar e tabular a opinião de entrevistados sobre um atendimento.
+
+O que o programa faz
+Solicita o nome, a idade e a opinião de 50 entrevistados.
+Valida as entradas: idade precisa ser um número inteiro e opinião precisa ser 1, 2 ou 3.
+Classifica cada opinião em:
+1 → EXCELENTE
+2 → BOM
+3 → RUIM
+Ao final, exibe o total de respostas em cada categoria.
